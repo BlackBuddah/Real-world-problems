@@ -1,8 +1,4 @@
-'''
-Author: Adesina Osibodu
-Date: 9/07/23
-Purpose: Week 3 Exercise
-'''
+
 
 ##Number    Roman Numeral
 ##1           i
