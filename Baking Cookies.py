@@ -1,22 +1,4 @@
-##'''
-##Author:Adesina Osibodu
-##Date:08-30-2023
-##Purpose:Week Two Exercise
-##'''
-##
-###Declaring Variables
-##Salesproj=0.0
-##profit=0.0
-##
-##
-###Data types: Integers,Floats, and String
-##salesproj=float(input('Enter projected sales'))
-##
-###Calculation for Profit
-##profit=salesproj*0.23
-##
-##print('This is my profit',profit)
-##
+
 
 Flour = 2.75
 Sugar = 1.5
