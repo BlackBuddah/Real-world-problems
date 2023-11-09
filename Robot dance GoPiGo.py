@@ -1,9 +1,3 @@
-'''
-Author: Adesina Osibodu
-date: 10/6/2023
-purpose: Midterm Programming Exercise without GoPiGO
-'''
-
 #declare variables
 choice=0.0
 action=0.0
