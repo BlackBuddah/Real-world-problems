@@ -1,7 +1,3 @@
-##Author:Adesina Osibodu
-##Date:11-04-2023
-##Purpose:Week Eleven Exercise
-##'''
 
 #declare variables
 Name= ""
