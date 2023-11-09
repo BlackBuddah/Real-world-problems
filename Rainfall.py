@@ -1,8 +1,4 @@
-'''
-Author: Adesina Osibodu
-Date: 9/14/23
-Purpose:Week 4 Exercise
-'''
+
 
 #Declaring Variables
 Years = 0
